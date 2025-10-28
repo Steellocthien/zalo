@@ -1,0 +1,6 @@
+{
+  "appId": "your-app-id",
+  "build": {
+    "output": "dist"
+  }
+}
