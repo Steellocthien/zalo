@@ -1,0 +1,12 @@
+{
+  "name": "Sắt Thép Lộc Thiên",
+  "version": "1.0.0",
+  "description": "Sắt Thép Lộc Thiên – đơn vị uy tín cung cấp thép tại miền Nam",
+  "domains": ["https://thepmiennam.pages.dev"],
+  "permissions": [],
+  "window": {
+    "navigationBarTitleText": "Sắt Thép Lộc Thiên",
+    "backgroundColor": "#0b1220",
+    "navigationBarTextStyle": "white"
+  }
+}
